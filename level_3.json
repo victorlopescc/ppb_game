@@ -26,13 +26,13 @@
     },
     {
       "type": "coin",
-      "position": { "x": 3, "y": 2, "z": 0 },
+      "position": { "x": 4, "y": 2, "z": 0 },
       "rotation": 0,
       "scale": { "x": 0.5, "y": 0.5 }
     },
     {
       "type": "coin",
-      "position": { "x": 0, "y": 1.5, "z": 0 },
+      "position": { "x": 1, "y": 2, "z": 0 },
       "rotation": 0,
       "scale": { "x": 0.5, "y": 0.5 }
     }
