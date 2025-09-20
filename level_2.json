@@ -14,7 +14,7 @@
     },
     {
       "type": "coin",
-      "position": { "x": 3.5, "y": 4.0, "z": 0.0 },
+      "position": { "x": 5.5, "y": 4.0, "z": 0.0 },
       "rotation": 0.0,
       "scale": { "x": 0.5, "y": 0.5 }
     }
