@@ -2,20 +2,26 @@
   "objects": [
     {
       "type": "block",
-      "position": { "x": -2.0, "y": -1.5, "z": 0.0 },
-      "rotation": 0.0,
-      "scale": { "x": 1.0, "y": 1.0 }
+      "position": { "x": 0, "y": -2, "z": 0 },
+      "rotation": 0,
+      "scale": { "x": 5, "y": 1 }
     },
     {
-      "type": "platform",
-      "position": { "x": 3.5, "y": 2.0, "z": 0.0 },
-      "rotation": 0.0,
-      "scale": { "x": 1.0, "y": 0.5 }
+      "type": "player",
+      "position": { "x": -2, "y": 0, "z": 0 },
+      "rotation": 0,
+      "scale": { "x": 1, "y": 1 }
     },
     {
       "type": "coin",
-      "position": { "x": 3.5, "y": 4.0, "z": 0.0 },
-      "rotation": 0.0,
+      "position": { "x": 0, "y": 0, "z": 0 },
+      "rotation": 0,
+      "scale": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "type": "coin",
+      "position": { "x": 2, "y": 0, "z": 0 },
+      "rotation": 0,
       "scale": { "x": 0.5, "y": 0.5 }
     }
   ]
